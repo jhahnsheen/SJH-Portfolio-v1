@@ -14,3 +14,5 @@ For myself, tany text and images used were more like placeholder images more tha
 Future portfolio projects will be more professional as I have more content. 
 
 Thanks for reading through these notes, and I hope that this is just the foundation for something much more impressive in the future!
+
+One last aside: I did not actually include any personal information yet because this is a public repo and not my official portfolio yet. 
